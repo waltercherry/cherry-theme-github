@@ -1,1 +1,68 @@
-{"name":"t:sections.header.name","type":"header","sections":{"announcement-bar":{"type":"announcement-bar","blocks":{"announcement-bar-0":{"type":"announcement","settings":{"text":"Suscríbete a nuestros próximos cursos","link":"shopify:\/\/pages\/under-maintance"}},"announcement_tYhtDc":{"type":"announcement","settings":{"text":"Aprovecha ofertas en productos de Chocolate","link":"shopify:\/\/collections\/chocolate-susedaneo"}},"announcement_GKEtPF":{"type":"announcement","settings":{"text":"Síguenos en redes sociales","link":"shopify:\/\/pages\/under-maintance"}}},"block_order":["announcement-bar-0","announcement_tYhtDc","announcement_GKEtPF"],"settings":{"color_scheme":"accent-2","show_line_separator":true,"show_social":true,"auto_rotate":true,"change_slides_speed":3,"enable_country_selector":true,"enable_language_selector":false}},"header":{"type":"header","settings":{"logo_position":"middle-left","menu":"main-menu","menu_type_desktop":"dropdown","sticky_header_type":"reduce-logo-size","show_line_separator":true,"color_scheme":"background-1","menu_color_scheme":"accent-2","enable_country_selector":true,"enable_language_selector":true,"mobile_logo_position":"center","margin_bottom":0,"padding_top":0,"padding_bottom":0}}},"order":["announcement-bar","header"]}
+{
+  "name": "t:sections.header.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement-bar-0": {
+          "type": "announcement",
+          "settings": {
+            "text": "Suscríbete a nuestros próximos cursos",
+            "link": "shopify:\/\/pages\/under-maintance"
+          }
+        },
+        "announcement_tYhtDc": {
+          "type": "announcement",
+          "settings": {
+            "text": "Aprovecha ofertas en productos de Chocolate",
+            "link": "shopify:\/\/collections\/chocolate-cocoa"
+          }
+        },
+        "announcement_GKEtPF": {
+          "type": "announcement",
+          "settings": {
+            "text": "Síguenos en redes sociales",
+            "link": "shopify:\/\/pages\/under-maintance"
+          }
+        }
+      },
+      "block_order": [
+        "announcement-bar-0",
+        "announcement_tYhtDc",
+        "announcement_GKEtPF"
+      ],
+      "settings": {
+        "color_scheme": "accent-2",
+        "show_line_separator": true,
+        "show_social": true,
+        "auto_rotate": true,
+        "change_slides_speed": 3,
+        "enable_country_selector": true,
+        "enable_language_selector": false
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "accent-2",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
